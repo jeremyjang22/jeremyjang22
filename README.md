@@ -8,3 +8,6 @@
 jj2798nyu/jj2798nyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Resources that I remind myself to check out:
+- git terminal commands: https://gist.github.com/cferdinandi/ef665330286fd5d7127d
