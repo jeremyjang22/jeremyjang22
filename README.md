@@ -3,7 +3,7 @@ Introduction
 - I’m interested in learning as many things I find interesting as I can
 - I’m currently learning primarily Data Science/AI/ML topics, though I am open to trying to learn new things
 - I’m looking to collaborate on ...
-- How to reach me: email me at jeremy.jang@nyu.edu!
+- How to reach me: email me at jeremyja@usc.edu!
 
 <!---
 jj2798nyu/jj2798nyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
