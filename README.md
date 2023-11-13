@@ -1,5 +1,5 @@
 Introduction
-- Hi, I’m @jj2798nyu, I am a senior studying computer science at NYU tandon
+- Hi, I’m @jeremyjang22, I am a first year graduate student studying Computer Science at USC Viterbi. Prior to August 2023 I studied computer science at NYU Tandon
 - I’m interested in learning as many things I find interesting as I can
 - I’m currently learning primarily Data Science/AI/ML topics, though I am open to trying to learn new things
 - I’m looking to collaborate on ...
