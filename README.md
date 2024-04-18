@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Resources that I remind myself to check out:
-- git terminal commands: https://gist.github.com/cferdinandi/ef665330286fd5d7127d
+- [git terminal commands](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
+- [setup repo from CLI](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
